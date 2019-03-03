@@ -1,2 +1,2 @@
 # Projects-DQ
-Projects i have done at Dataquest
+Projects i have done at Dataquest courses.
